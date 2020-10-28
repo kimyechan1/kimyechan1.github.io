@@ -6,6 +6,13 @@
 
 #### 20201028(수)
 
+=css 스타일 적용하는 3가지 방법
+1.inline스타일 : 태그 안쪽에 속성사용
+2.<>내부스타일<> 
+3.외부css파일 지정
+-깃하버 readme.md(mark down 언어)
+= eeta데이터 : 데이터의 데이터임.(컨텐츠를 설명하는 데이터)
+meta태그중 viewport는 반응형사이트에서 필수.
 - 반응형사이트 화면설계서_학생용 구글ppt 다운받기(아래 구글링크):
 - https://drive.google.com/file/d/17jXgf7R2BawMt3K9eoxfnnO_8X9yClLZ/view?usp=sharing
 - 반응형사이트 기획서_학생용 구글xlsx 다운받기(아래 구글링크):
