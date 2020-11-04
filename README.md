@@ -4,6 +4,7 @@
 - 파이어폭스 개발자도구의 스타일 탭사용
 - 기존 PC용 > 태블릿용 > 모바일용 CSS작업순서를 [모바일용 > 태블릿용 > PC용] 으로 변경작업
 #### 20201104(수)
+-placeholder : ms-input-placeholder 속성 크로스 브라우징 처리 OK
 -메인페이지 로고와 슬라이드 (모바일용/PC용) 이미지 교체
 -테이블 display:none > block
 -테이블 display:none > table-cell 처리
